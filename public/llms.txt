@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סוויטות חדשות ומאובזרות במלואן בשדרות. מצעים רכים, נטפליקס, פינת קפה ומרחב מוגן. אירוח משפחתי חם לזוגות ומשפחות. הזמינו עכשיו!
+
+### סוויטות
+https://example.com/suites
+שתי סוויטות חדשות בשדרות עם מטבחון מאובזר, פלטת שבת, אמבטיה מפנקת ונטפליקס. מושלם לזוגות, יחידים ומשפחות קטנות. גלו את הסוויטות!
+
+### מחירים ומדיניות
+https://example.com/pricing
+מחירון ברור ושקוף לאירוח בשדרות. תעריפים נוחים לימי חול וסופי שבוע, ללא הפתעות. צפו במדיניות הביטול וההזמנה שלנו ושריינו היום!
+
+### צור קשר
+https://example.com/contact
+מעוניינים באירוח בשדרות? צרו איתנו קשר לבירורים, הזמנות ושאלות. אנחנו כאן כדי להבטיח לכם חוויית אירוח מושלמת ונוחה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
